@@ -1,0 +1,38 @@
+https://leetcode.com/problems/all-paths-from-source-to-target/
+https://leetcode.com/problems/unique-paths-iii/
+
+https://leetcode.com/problems/subsets/
+https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/
+https://leetcode.com/problems/letter-tile-possibilities/
+https://leetcode.com/problems/permutations/
+https://leetcode.com/problems/letter-case-permutation/description/
+https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+https://leetcode.com/problems/n-queens-ii/description/
+https://leetcode.com/problems/combination-sum/description/
+https://leetcode.com/problems/combination-sum-iii/
+https://leetcode.com/problems/combinations/
+https://leetcode.com/problems/palindrome-partitioning/description/
+https://leetcode.com/problems/beautiful-arrangement/description/
+https://leetcode.com/problems/path-with-maximum-gold/description/
+https://leetcode.com/problems/fair-distribution-of-cookies/
+https://leetcode.com/problems/non-decreasing-subsequences/
+https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+https://leetcode.com/problems/combination-sum-ii/description/
+https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/ - check how to print all subsets on gfg
+https://leetcode.com/problems/optimal-account-balancing/description/
+https://leetcode.com/problems/remove-invalid-parentheses/ - check bfs solution
+https://leetcode.com/problems/restore-ip-addresses/description/
+https://leetcode.com/problems/target-sum/description/ - check solution , subsets with sum x aditya verma
+https://leetcode.com/problems/word-break-ii/description/
+https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/
+https://leetcode.com/problems/word-search/description/ - check code once . check in all 4 directions
+
+
+Remaining :-
+
+https://leetcode.com/problems/expression-add-operators/
+https://leetcode.com/problems/word-search-ii/
+https://leetcode.com/problems/word-ladder-ii/
+https://leetcode.com/problems/sudoku-solver/
+https://leetcode.com/problems/different-ways-to-add-parentheses/

@@ -1,0 +1,20 @@
+https://leetcode.com/problems/partition-labels/description/
+https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/ - just check solution
+https://leetcode.com/problems/di-string-match/
+https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
+https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/
+https://leetcode.com/problems/construct-k-palindrome-strings/description/
+https://leetcode.com/problems/container-with-most-water/description/ - understand
+https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/solutions/506853/java-a-general-greedy-solution-to-process-similar-problems/ - check
+https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
+https://leetcode.com/problems/candy/description/
+https://leetcode.com/problems/jump-game/description/
+https://leetcode.com/problems/jump-game-ii/
+https://leetcode.com/problems/remove-k-digits/description/
+https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/
+https://leetcode.com/problems/gas-station/description/
+https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+https://leetcode.com/problems/construct-k-palindrome-strings/

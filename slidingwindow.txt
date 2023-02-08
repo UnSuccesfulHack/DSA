@@ -1,0 +1,23 @@
+https://leetcode.com/problems/minimum-size-subarray-sum/description/
+https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/description/
+https://leetcode.com/problems/maximum-erasure-value/description/
+https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/
+https://leetcode.com/problems/longest-repeating-character-replacement/description/
+https://leetcode.com/problems/binary-subarrays-with-sum/description/
+https://leetcode.com/problems/subarray-product-less-than-k/description/
+https://leetcode.com/problems/sliding-window-maximum/description/ - deque
+https://leetcode.com/problems/minimum-window-substring/description/
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
+
+
+remaining 
+https://leetcode.com/problems/subarrays-with-k-different-integers/description/
+https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/
+https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/
+https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
+
+https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+https://leetcode.com/problems/longest-duplicate-substring/
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/

@@ -1,0 +1,28 @@
+https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+My calendar series questions all
+https://leetcode.com/problems/peak-index-in-a-mountain-array/
+https://leetcode.com/problems/find-the-distance-value-between-two-arrays/ - UBER check question once
+https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
+https://leetcode.com/problems/maximum-tastiness-of-candy-basket/  - phonepe write couple of times
+https://leetcode.com/problems/max-consecutive-ones-iii/
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
+https://leetcode.com/problems/two-sum-less-than-k/
+https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
+https://leetcode.com/problems/divide-chocolate/description/
+https://leetcode.com/problems/minimum-time-to-complete-trips/
+https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/
+https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+https://leetcode.com/problems/search-a-2d-matrix/description/
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+https://leetcode.com/problems/leftmost-column-with-at-least-a-one/description/
+https://leetcode.com/problems/koko-eating-bananas
+https://leetcode.com/problems/search-a-2d-matrix-ii/
+
+
+remaining :- 
+https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/
+https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/

@@ -1,0 +1,35 @@
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/
+https://leetcode.com/problems/number-of-visible-people-in-a-queue/
+https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+https://leetcode.com/problems/validate-stack-sequences/description/
+https://leetcode.com/problems/maximum-frequency-stack/description/
+https://leetcode.com/problems/daily-temperatures/description/
+https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+https://leetcode.com/problems/score-of-parentheses/description/
+https://leetcode.com/problems/trapping-rain-water/
+https://leetcode.com/problems/max-chunks-to-make-sorted/
+https://leetcode.com/problems/decode-string/
+https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/
+https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/
+https://leetcode.com/problems/find-the-most-competitive-subsequence/description/
+https://leetcode.com/problems/remove-k-digits/
+https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+
+Remaining :- 
+
+Basic calculator series
+https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/description/
+https://leetcode.com/problems/sum-of-subarray-minimums/solutions/
+https://leetcode.com/problems/sum-of-subarray-ranges/description/
+https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+https://leetcode.com/problems/min-stack/solutions/49010/clean-6ms-java-solution/
+https://leetcode.com/problems/max-stack/solutions/2577027/max-stack/
+https://leetcode.com/problems/decoded-string-at-index/
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+https://leetcode.com/problems/simplify-path/
+https://leetcode.com/problems/evaluate-reverse-polish-notation/
+https://leetcode.com/problems/asteroid-collision/
+https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/

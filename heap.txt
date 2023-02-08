@@ -1,0 +1,13 @@
+https://leetcode.com/problems/kth-largest-element-in-an-array/description/ - quick select approach
+https://leetcode.com/problems/top-k-frequent-words/
+https://leetcode.com/problems/reorganize-string/
+https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/
+https://leetcode.com/problems/single-threaded-cpu/
+https://leetcode.com/problems/rearrange-string-k-distance-apart/
+
+
+https://leetcode.com/problems/total-cost-to-hire-k-workers/
+https://leetcode.com/problems/find-median-from-data-stream/
+
+https://leetcode.com/problems/k-closest-points-to-origin/description/
+

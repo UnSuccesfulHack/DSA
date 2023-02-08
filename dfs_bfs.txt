@@ -1,0 +1,71 @@
+https://leetcode.com/problems/insert-into-a-binary-search-tree/description/
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/ - check the solution
+https://leetcode.com/problems/balance-a-binary-search-tree/description/
+https://leetcode.com/problems/find-leaves-of-binary-tree/description/
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/
+https://leetcode.com/problems/evaluate-boolean-binary-tree/
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/ - have to do all traversals with stack
+https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+https://leetcode.com/problems/invert-binary-tree/
+https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/
+https://leetcode.com/problems/diameter-of-n-ary-tree/
+https://leetcode.com/problems/binary-tree-pruning/
+https://leetcode.com/problems/create-binary-tree-from-descriptions/description/
+https://leetcode.com/problems/distribute-coins-in-binary-tree/description/ - https://www.youtube.com/watch?v=MfXxic8IhkI comment under video.
+https://leetcode.com/problems/max-area-of-island/
+https://leetcode.com/problems/keys-and-rooms/description/
+https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/
+https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+https://leetcode.com/problems/flip-equivalent-binary-trees/description/
+https://leetcode.com/problems/trim-a-binary-search-tree/description/
+https://leetcode.com/problems/smallest-common-region/description/
+https://leetcode.com/problems/number-of-provinces/
+https://leetcode.com/problems/jump-game-iii/description/
+https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+https://leetcode.com/problems/number-of-distinct-islands/description/ - check official solution
+https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/
+https://leetcode.com/problems/diameter-of-binary-tree/description/
+https://leetcode.com/problems/the-maze/description/
+https://leetcode.com/problems/house-robber-iii/description/
+https://leetcode.com/problems/is-graph-bipartite/description/
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/
+Just check course Schedule series once and parallel courses series
+https://leetcode.com/problems/sliding-puzzle/description/ - check solution once
+https://leetcode.com/problems/walls-and-gates/description/
+https://leetcode.com/problems/open-the-lock/
+https://leetcode.com/problems/rotting-oranges/description/
+https://leetcode.com/problems/01-matrix/description/
+https://leetcode.com/problems/path-with-maximum-minimum-value/description/
+https://leetcode.com/problems/word-ladder/description/
+https://leetcode.com/problems/maximum-width-of-binary-tree/description/ - remember 
+https://leetcode.com/problems/minimum-jumps-to-reach-home/description/
+https://leetcode.com/problems/bus-routes/description/ 
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+https://leetcode.com/problems/delete-node-in-a-bst/
+https://leetcode.com/problems/number-of-closed-islands
+https://leetcode.com/problems/transpose-matrix/description/
+https://leetcode.com/problems/largest-bst-subtree/description/
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+
+Remaining :- 
+https://leetcode.com/problems/construct-quad-tree/
+https://leetcode.com/problems/regions-cut-by-slashes/
+https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
+https://leetcode.com/problems/minesweeper/description/
+https://leetcode.com/problems/evaluate-division/description/
+https://leetcode.com/problems/time-needed-to-inform-all-employees/
+https://leetcode.com/problems/find-eventual-safe-states/
+https://leetcode.com/problems/accounts-merge/description/
+https://leetcode.com/problems/path-with-minimum-effort/
+https://leetcode.com/problems/binary-tree-cameras/
+https://leetcode.com/problems/alien-dictionary/description/
+https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/
+https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+https://leetcode.com/problems/shortest-path-to-get-all-keys/description/
+https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/
+https://leetcode.com/problems/unique-paths-iii/description/
+

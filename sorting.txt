@@ -1,0 +1,60 @@
+https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+https://leetcode.com/problems/maximum-units-on-a-truck
+https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k
+https://leetcode.com/problems/reducing-dishes/
+https://leetcode.com/problems/employee-free-time
+https://leetcode.com/problems/reduce-array-size-to-the-half
+https://leetcode.com/problems/orderly-queue/description/ - just check the solution
+https://leetcode.com/problems/maximum-tastiness-of-candy-basket - phonepe
+https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/ - just check solution
+https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/ - check solution
+https://leetcode.com/problems/max-chunks-to-make-sorted/description/ - understand logic
+https://leetcode.com/problems/rank-teams-by-votes/description/ - tough
+https://leetcode.com/problems/meeting-rooms/
+https://leetcode.com/problems/car-pooling 
+https://leetcode.com/problems/remove-covered-intervals/description/ - https://www.youtube.com/watch?v=nhAsMabiVkM 
+https://leetcode.com/problems/top-k-frequent-words/description/
+https://leetcode.com/problems/maximum-length-of-pair-chain/description/
+https://leetcode.com/problems/minimum-time-difference/description/ - Just check solution - https://leetcode.com/problems/minimum-time-difference/solutions/100640/verbose-java-solution-bucket/
+https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/ - same as https://leetcode.com/problems/maximum-length-of-pair-chain/description/
+https://leetcode.com/problems/boats-to-save-people
+https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/ - check and see solution
+https://leetcode.com/problems/reorganize-string/
+https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/ , https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/
+https://leetcode.com/problems/advantage-shuffle/description/ - just check solution
+https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/
+https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/
+https://leetcode.com/problems/3sum-smaller/description/
+https://leetcode.com/problems/meeting-rooms-ii/
+https://leetcode.com/problems/find-right-interval/description/ - just check solution
+https://leetcode.com/problems/valid-triangle-number/description/
+https://leetcode.com/problems/diagonal-traverse-ii/description/ - just check solution
+https://leetcode.com/problems/non-overlapping-intervals/description/
+https://leetcode.com/problems/merge-intervals/
+https://leetcode.com/problems/3sum-closest/ - just check solution once
+https://leetcode.com/problems/single-threaded-cpu/description/
+https://leetcode.com/problems/minimum-money-required-before-transactions/description/
+https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/
+https://leetcode.com/problems/rearrange-string-k-distance-apart/description/
+https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/
+https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k
+https://leetcode.com/problems/3sum-with-multiplicity
+https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/
+
+
+remaining :- 
+
+https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+https://leetcode.com/problems/two-best-non-overlapping-events/
+https://leetcode.com/problems/queue-reconstruction-by-height/solutions/
+https://leetcode.com/problems/two-city-scheduling/description/
+https://leetcode.com/problems/task-scheduler/description/
+https://leetcode.com/problems/meeting-scheduler/description/
+https://leetcode.com/problems/maximum-earnings-from-taxi/description/
+https://leetcode.com/problems/maximum-earnings-from-taxi/description/
+https://leetcode.com/problems/russian-doll-envelopes/description/
+https://leetcode.com/problems/minimum-sum-of-squared-difference/
+https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/
+https://leetcode.com/problems/heaters/description/
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ 
